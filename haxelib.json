@@ -1,0 +1,11 @@
+{
+  "name": "tink_extensions",
+  "version": "0.0.1",
+  "url": "https://github.com/wartman/tink_extensions",
+  "releasenote": "prerelease",
+  "classPath": "src",
+  "contributors": ["wartman"],
+  "dependencies": {},
+  "description": "A few little extensions for Tink.",
+  "license": "MIT"
+}

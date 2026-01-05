@@ -1,0 +1,10 @@
+-cp src
+-cp test
+
+-lib tink_core
+-lib utest
+
+-main Run
+
+-js dist/test.js
+-cmd node dist/test
