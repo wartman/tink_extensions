@@ -5,7 +5,9 @@
   "releasenote": "prerelease",
   "classPath": "src",
   "contributors": ["wartman"],
-  "dependencies": {},
+  "dependencies": {
+    "tink_core": "2.1.1"
+  },
   "description": "A few little extensions for Tink.",
   "license": "MIT"
 }
